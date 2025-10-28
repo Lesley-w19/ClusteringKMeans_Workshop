@@ -1,0 +1,11 @@
+# virtual environment
+.venv/
+
+# python checkpoints
+.ipynb_checkpoints/
+
+# readme
+Submission_Template.md
+
+# pdf
+Problem Analysis Workshop 3.pdf
